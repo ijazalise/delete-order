@@ -1,5 +1,5 @@
 {
-    "name": "innovadeltech/delete-orders",
+    "name": "innovadeltech/delete-order",
     "description": "Magento 2 extension allows the site owner to delete unwanted orders.",
     "type": "magento2-module",
     "version": "0.1.0",
