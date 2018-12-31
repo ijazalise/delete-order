@@ -16,7 +16,7 @@
     }
   ],
     "require": {
-        "php": "7.x",
+        "php": "7",
         "magento/magento-composer-installer": "*"
     },
   "autoload": {
