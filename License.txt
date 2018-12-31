@@ -1,6 +1,6 @@
 This package is developed by innovadeltech.
 This is open license extension for magento 2.
-version : 0.2.0
+version : 0.1.0
 
 Licensee's license to use the Software shall terminate on the earlier of (i) the expiration of the Evaluation Period, or (ii) the date
 both parties enter into a definitive agreement for the provision by Spryker to Licensee of a non-evaluation license to the Software.
