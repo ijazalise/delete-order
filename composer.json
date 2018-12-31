@@ -1,0 +1,28 @@
+{
+    "name": "innovadeltech/delete-orders",
+    "description": "Magento 2 extension allows the site owner to delete unwanted orders.",
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "authors": [
+    {
+      "name": "innovadeltech",
+      "email": "info@innovadeltech.com",
+      "homepage": "http://www.innovadeltech.com",
+      "role": "Leader"
+    }
+  ],
+    "require": {
+        "php": "~5.5.0|~5.6.0|~7.1.10",
+        "magento/magento-composer-installer": "*"
+    },
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Innovadeltech\\DeleteOrders\\": ""
+    }
+  }
+}
